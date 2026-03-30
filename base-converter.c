@@ -124,11 +124,11 @@ int main() {
                 break;
 
             case 5:
-                printf("Exiting... bye 👀\n");
+                printf("Exiting... bye \n");
                 return 0;
 
             default:
-                printf("Invalid choice 😒\n");
+                printf("Invalid choice \n");
         }
     }
 
